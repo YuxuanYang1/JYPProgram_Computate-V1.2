@@ -1,0 +1,27 @@
+#复制以下代码至 https://mermaid.live
+graph TD
+    announcement --> user
+    config --> admin
+    config --> data
+    config --> history
+    config --> menu
+    config --> user
+    config --> utils
+    config --> zbo
+    data --> admin
+    data --> history
+    data --> menu
+    data --> user
+    data --> utils
+    data --> zbo
+    history --> admin
+    history --> menu
+    menu --> user
+    utils --> admin
+    utils --> announcement
+    utils --> history
+    utils --> menu
+    utils --> user
+    utils --> zbo
+    zbo --> menu
+    user --> main
