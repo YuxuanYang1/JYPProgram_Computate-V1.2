@@ -1,11 +1,7 @@
 #config(V1.2-0918)
-NameList = ["ceshi", "JYP", "Anne"]
-KeyList = [
-    'af7a60f26539969b81148c240ac730cce98b8d78ae54e9cea9f084a9d9631976',
-    '31582238f5a2fa5e1e04842bbbe1ce761d886bae78815685d1d167b8a645eb36',
-    '87937216b1a07cd5ca67f67ac5bf0bedf766205a88228968eabc468dddaa5ec5'
-]
-ScoreList = [10, 139, 0]
+NameList = []
+KeyList = []
+ScoreList = []
 
 DATA_FILE = "user_data.json"
 HISTORY_FILE = "user_history.json"
